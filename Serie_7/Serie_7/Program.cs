@@ -9,6 +9,7 @@ namespace Serie_7{
             NumComplejos n3;
             //Se hace uso de los metodos declarados
             n1.mostrar();
+            n2.mostrar();
             n3 = n2.sumar(n1);
             n3.mostrar();
 
